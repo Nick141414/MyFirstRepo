@@ -1,2 +1,4 @@
 # MyFirstRepo
-this is my frist github repo
+hello this is my frist github repo.
+
+Hello GitHub!
